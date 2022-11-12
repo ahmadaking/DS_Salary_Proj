@@ -56,5 +56,14 @@ Project Organization
 
 --------
 
+## Resources
+https://github.com/Tegarsw17/glassdoor-job-scrapper-selenium/blob/main/glassdoor_scraper.py
+
+https://www.lambdatest.com/blog/complete-guide-for-using-xpath-in-selenium-with-examples/
+
+https://mersakarya.medium.com/selenium-tutorial-scraping-glassdoor-com-in-10-minutes-3d0915c6d905
+
+
+
 <p><small>Project based on the <a target="_blank" href="https://drivendata.github.io/cookiecutter-data-science/">cookiecutter data science project template</a>. #cookiecutterdatascience</small></p>
 # DS_Salary_Proj
